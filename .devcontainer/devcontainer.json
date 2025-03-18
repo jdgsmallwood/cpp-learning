@@ -9,7 +9,8 @@
 		"vscode": {
 			"extensions": [
 				"ms-vscode.cpptools-extension-pack",
-				"matepek.vscode-catch2-test-adapter"
+				"matepek.vscode-catch2-test-adapter",
+				"ms-vscode.makefile-tools"
 			]
 		}
 	},
