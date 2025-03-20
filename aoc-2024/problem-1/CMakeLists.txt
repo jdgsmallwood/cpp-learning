@@ -22,6 +22,13 @@ add_executable(
 )
 
 add_executable(
+    prob1b
+    prob-1b.cpp
+    util.h
+    util.cpp
+)
+
+add_executable(
     prob1_test
     tests.cpp
     util.h
